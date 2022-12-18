@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    color: white;
+    background-color: black;
+    font-family: 'Alegreya';
+}
+h1{
+    font-size: 30px;
+    padding-left: 1rem;
+    display: flex;
+}
+
+.header{
+    display: flex;
+    background: red;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 16px;
+    padding-right: 1rem;
+}
